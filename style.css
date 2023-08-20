@@ -49,9 +49,11 @@
         width: 330px;
         
         gap: 5px;
+        
     }
     .para{
         font-size: 13px;
+        margin-top: 20px;
     }
     .deliverypic{
         
@@ -97,7 +99,8 @@
     }
     .start1{
         display: flex;
-        gap: 5px;
+        gap: 15px;
+        margin-top: 25px;
     }
 
 

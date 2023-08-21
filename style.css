@@ -176,13 +176,13 @@
         position: relative;
     }
     .start51{
-        width: 310px;
+        width: 340px;
         position: relative;
         margin-top: 10px;
         margin-bottom: 10px;
     }
     .img1{
-        width: 310px;
+        width: 100%;
         border-radius: 10px;
         
     }
@@ -203,7 +203,7 @@
         
     }
     .min{
-        width: 55px;
+        width: 60px;
         position: absolute;
         right: 5px;
         bottom: 105px;

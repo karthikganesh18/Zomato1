@@ -166,5 +166,51 @@
     .time2{
         margin-left: 24px;
     }
+    .box{
+        border: 1px solid black;
+        border-radius: 10px;
+        
+    }
+    .start5{
+        width: 310px;
+        position: relative;
+    }
+    .start51{
+        width: 310px;
+        position: relative;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img1{
+        width: 310px;
+        border-radius: 10px;
+        
+    }
+    .t1{
+        margin-left: 5px;
+    }
+    .discount{
+        
+        width: 130px;
+        font-size: 14px;
+        padding: 2px;
+        text-align: center;
+        background-color: #256fef;
+        color: white;
+        position: absolute;
+        bottom: 105px;
+        left: 5px;
+        
+    }
+    .min{
+        width: 55px;
+        position: absolute;
+        right: 5px;
+        bottom: 105px;
+        background-color: white;
+        border-radius: 5px;
+
+    }
+    
 
 }

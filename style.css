@@ -110,11 +110,27 @@
         color: gray;
         
     }
+    .b2{
+        border: 1px solid;
+        width: 50px;
+        padding: 4px;
+        border-radius: 5px;
+        color: gray;
+        
+    }
+    .b3{
+        border: 1px solid;
+        width: 50px;
+        padding: 4px;
+        border-radius: 5px;
+        color: gray;
+        
+    }
     .start2{
         display: flex;
         gap: 10px;
         margin-top: 10px;
-        position: sticky;
+        
     }
     .inspirationp{
        

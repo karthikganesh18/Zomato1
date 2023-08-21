@@ -141,9 +141,30 @@
     .ins{
         display: flex;
         gap: 20px;
+        overflow-x: auto;
+        transition: 1s;
 
     }
+    .pics1{
+        width: 100px;
 
-    
+    }
+    .texts1{
+        font-size: 15px;
+        margin-left: 24px;
+    }
+    .time1{
+        margin-left: 24px;
+    }
+    .pics2{
+        width: 100px;
+    }
+    .texts2{
+        font-size: 15px;
+        margin-left: 24px;
+    }
+    .time2{
+        margin-left: 24px;
+    }
 
 }

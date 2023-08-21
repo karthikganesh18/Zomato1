@@ -1,6 +1,6 @@
 
 
-@media(max-width:400px){
+@media(max-width:420px){
     .zom{
         width: 100%;
         height:18px;
@@ -102,7 +102,47 @@
         gap: 15px;
         margin-top: 25px;
     }
+    .b1{
+        border: 1px solid;
+        width: 50px;
+        padding: 4px;
+        border-radius: 5px;
+        color: gray;
+        
+    }
+    .start2{
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+        position: sticky;
+    }
+    .inspirationp{
+       
+        font-size: 18px;
+    }
+    .pic1{
+        width: 100px;
 
+    }
+    .text1{
+        font-size: 15px;
+        margin-left: 24px;
+        
+    }
+    .pic2{
+        width: 100px;
+        clip-path: circle(); 
+    }
+    .text2{
+        font-size: 15px;
+        margin-left: 28px;   
+        
+    }
+    .ins{
+        display: flex;
+        gap: 20px;
+
+    }
 
     
 
